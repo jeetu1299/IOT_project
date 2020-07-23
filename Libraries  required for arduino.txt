@@ -1,0 +1,10 @@
+acs712
+pyserial
+pymysql
+Serial communication
+
+
+req:
+2 IR
+ACS
+Appliance
